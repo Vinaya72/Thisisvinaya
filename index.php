@@ -66,11 +66,11 @@
                     </div>
                     <div class="course"> BEng Computer Science, NTU.</div>
                     <div class="about">
-                      I am an inquisitive individual who likes to keep herself engaged
-                       doing the same thing or something new. My inquisitive nature introduced
-                        me to the world of computer science and I find myself deep into it that now
-                         I love to solve different problems and design many things on screen by coding
-                          and learn a lot from it.
+                      Inquisitive individual who likes to keep herself engaged
+                      doing the same thing or something new. My inquisitive nature introduced
+                      me to the world of design and development of software applications and I find myself deep into it.
+                      I contantly explore different platforms of development to learn something new and apply the knowledge
+                      to develop real world applications.
 
                     </div>
                   </div>
