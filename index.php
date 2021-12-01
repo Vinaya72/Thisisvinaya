@@ -68,7 +68,7 @@
                     <div class="about">
                       Inquisitive individual who likes to keep herself engaged
                       doing the same thing or something new. My inquisitive nature introduced
-                      me to the world of design and development of software applications and I find myself deep into it.
+                      me to the world of design and development of Application software and I find myself deep into it.
                       I contantly explore different platforms of development to learn something new and apply the knowledge
                       to develop real world applications.
 
