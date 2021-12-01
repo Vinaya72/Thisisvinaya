@@ -129,8 +129,7 @@
                 <h2 class="date" >September 2021 - Current</h2>
                   <div class="timeline-content">
                       <h1>AAkanksha - Frontend Developer</h1>
-                      <p>Front-end Developer Intern | built front end of a E-commerce website |
-                        Developed workshop and events landing page, Details page, billing page for E-learning website.
+                      <p>Built front end of a E-Learning website like workshop and events landing page, Details page and checkout page.
                       </p>
                   </div>
               </div>
