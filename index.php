@@ -126,7 +126,7 @@
             data-aos-duration="1000"
             data-aos-anchor-placement="top-center">
               <div class="timeline-sec">
-                <h2 class="date" >September 2021 - Current</h2>
+                <h2 class="date" >September 2021 - December 2021</h2>
                   <div class="timeline-content">
                       <h1>AAkanksha - Frontend Developer</h1>
                       <p>Built front end of a E-Learning website like workshop and events landing page, Details page and checkout page.
