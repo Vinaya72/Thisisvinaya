@@ -96,8 +96,12 @@ section {
   display: flex;
 }
 
+.nav-logo{
+  color: peachpuff;
+}
 .nav-link {
   margin-right: var(--mb-2);
+  color: peachpuff;
 }
 
 .nav-link:hover{
@@ -169,11 +173,12 @@ section {
 .banner-title{
   font-size: 4rem;
   position: relative;
-  animation: typing 1.5s steps(16);
+  animation: typing 1s steps(16);
   overflow: hidden;
   white-space: nowrap;
-  border-right: 0.5rem solid white;
-  width: 15ch;
+  border-right: 0.5rem solid peachpuff;
+  width: 16ch;
+  color: peachpuff;
 }
 
 @keyframes typing{
@@ -197,6 +202,18 @@ section {
   color: white;
   margin-bottom: 20px;
 
+}
+
+.title::after{
+  position: absolute;
+  content: "";
+  width: 32px;
+  height: 0.18rem;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 2rem;
+  background-color: peachpuff;
 }
 
 /*skills*/
@@ -428,12 +445,13 @@ section {
 
 .footer__title {
   font-size: var(--normal-font-size);
-  color: var(--white-color);
+  color: peachpuff;
   margin-bottom: var(--mb-2);
 }
 
 .footer__link {
   padding: 0.25rem 0;
+  color: peachpuff;
 }
 
 .footer__link:hover {
@@ -443,6 +461,7 @@ section {
 .footer__social {
   font-size: 1.4rem;
   margin-right: var(--mb-1);
+  color: peachpuff;
 }
 
 .footer__social:hover {
